@@ -3,5 +3,6 @@ Initial portafolio
 
 skill 1
 skill 2
+skill 3
 
 cambio 1
